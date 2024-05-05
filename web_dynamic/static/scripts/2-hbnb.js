@@ -34,5 +34,5 @@ $(document).ready(function () {
       });
     }
   
-    updateApiStatus(); // Initial update
+    updateApiStatus();
 });
